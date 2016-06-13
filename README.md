@@ -16,6 +16,7 @@ Android apps written in Scala
 - [Tuner & Metronome](https://play.google.com/store/apps/details?id=com.soundcorset.client.android) - by the makers of Scaloid
 - [EatIn](https://engineering.linkedin.com/incubator/technology-behind-eatin-android-apps-scala-ios-apps-and-play-framework-web-services) - LinkedIn's internal food rating app
 - [Ballero](https://play.google.com/store/apps/details?id=com.cldellow.ballero) - a knit and crochet app
+- [Maestroid](https://github.com/ryan-boder/maestroid) - Conduct a symphony with your Android device
 - [List of projects using Scaloid](https://github.com/pocorall/scaloid/wiki/Appendix#list-of-projects-using-scaloid)
 
 ## Should I do it?
