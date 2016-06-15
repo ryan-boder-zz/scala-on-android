@@ -23,7 +23,7 @@ Android apps written in Scala
 
 If you want then absolutely. If you're not so sure about it then probably not.
 
-The biggest drawback of using Scala on Android is tooling support. Android officially supports Java development, Scala - not so much. If you're willing to overcome the tooling issues then it's fairly safe.
+The biggest drawback of using Scala on Android is tooling support. Android officially supports Java development, Scala - not so much. If you're willing to overcome the tooling issues then it's fairly safe. Bytecode is bytecode. The Android runtime doesn't know the difference between bytecode that came from Scala source vs Java source.
 
 # Build Tools
 
